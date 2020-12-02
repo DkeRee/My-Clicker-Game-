@@ -24,7 +24,7 @@ function start(){
         number = 30;
         score = 0;
     }, 30000);
-  }, 1900)
+  }, 1900);
   
   startButton.style.display = 'none';
   secondButton.style.display = 'block';
